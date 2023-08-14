@@ -11,7 +11,7 @@
 *.blg
 *.run.xml
 *.xdv
-
+*.sh
 # LaTeX build output
 _build/
 latexmk
