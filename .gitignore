@@ -1,0 +1,27 @@
+# LaTeX files
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.toc
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+*.xdv
+
+# LaTeX build output
+_build/
+latexmk
+
+# Editor and IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.vscode-workspace
+
+# OS-generated files
+.DS_Store
+Thumbs.db
